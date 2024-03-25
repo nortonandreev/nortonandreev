@@ -21,7 +21,7 @@ I dove into the Web3 world starting October 2023, working on Dusk's Web Wallet p
 At Couchbase, I contributed significantly to Capella, our DBaaS product, enhancing it on AWS, GCP, and Azure as a Product Front End Engineer. I took on leadership roles, guiding the product's strategic direction, including a tech stack shift from React to Svelte and onboarding new team members. Our innovations, like the AI-powered Capella iQ, helped earn the title of Best Cloud Data Management Solution for 2023-2024 by the Cloud Awards. My work played a part in Couchbase's financial uplift, with Capella boosting annual subscription revenue by 23% to $142.9 million in fiscal 2023. [Explore Project](https://capella.couchbase.com)
 
 ## 🛠 Skills
-Versatile product designer / engineer with expertise in **automation** (CircleCI, GitHub Actions, Jenkins), **cloud platforms** (AWS, Azure, GCP), **databases** (Couchbase, MongoDB), and **UI/UX design** (Photoshop, XD, Figma). Proficient in **iOS** (SwiftUI, UIKit), **web development** (Svelte, Ruby on Rails), and **programming languages** like C#, Python, and TypeScript. 
+Versatile product engineer with expertise in **automation** (CircleCI, GitHub Actions, Jenkins), **cloud platforms** (AWS, Azure, GCP), **databases** (Couchbase, MongoDB), and **UI/UX design** (Photoshop, XD, Figma). Proficient in **iOS** (SwiftUI, UIKit), **web development** (Svelte, Ruby on Rails), and **programming languages** like C#, Python, and TypeScript. 
 
 Adept in Scrum, Jira, and Git. Strong focus on communication, problem-solving, and user-centricity.
 
