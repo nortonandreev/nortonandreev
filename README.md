@@ -1,6 +1,6 @@
 
 ## 👨‍💼 About Me
-I'm a tech-savvy skilled in turning concepts into successful products. With a strong foundation in product management and design, I excel at meeting customer needs and using the latest tech to guide projects from start to finish. I thrive on teamwork, aiming for quality and innovation at every step, and I'm passionate about creating impactful solutions.
+I'm a tech-savvy skilled in turning concepts into successful products. With a strong foundation in product management and design, I excel at meeting customer needs and using the latest tech to guide projects from start to finish. I thrive on teamwork, aiming for quality and innovation at every step. Passionate about creating impactful solutions.
 
 🚀 Founder, [Nortware](www.nortware.ltd)
 
