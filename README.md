@@ -6,7 +6,7 @@ I'm a tech-savvy skilled in turning concepts into successful products. With a st
 
 👨‍💻 Currently working for [Dusk](https://dusk.network)
 
-🎓 Graduated from the University of Sheffield with Highest Distinction
+🎓 Software Engineering Graduate (Highest Distinction), [University of Sheffield](https://www.sheffield.ac.uk)
 
 ## 📫 Let's Connect
 - **Personal Website**: [www.nortonandreev.com](https://www.nortonandreev.com)
