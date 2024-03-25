@@ -21,17 +21,8 @@ I dove into the Web3 world as a Frontend Engineer at Dusk starting October 2023,
 At Couchbase, I contributed significantly to Capella, our DBaaS product, enhancing it on AWS, GCP, and Azure as a Product Front End Engineer. I took on leadership roles, guiding the product's strategic direction, including a tech stack shift from React to Svelte and onboarding new team members. Our innovations, like the AI-powered Capella iQ, helped earn the title of Best Cloud Data Management Solution for 2023-2024 by the Cloud Awards. My work played a part in Couchbase's financial uplift, with Capella boosting annual subscription revenue by 23% to $142.9 million in fiscal 2023. [Explore Project](https://capella.couchbase.com)
 
 ## 🛠 Skills
-- **Automation Tools**: CircleCI, GitHub Actions, Jenkins
-- **Cloud Computing**: AWS, Azure, Google Cloud Platform
-- **Databases**: Couchbase, Firestore, IndexedDB, MongoDB, MySQL, PostgreSQL
-- **Design Tools**: Adobe Photoshop CC, Adobe XD, Figma
-- **Feature Management**: LaunchDarkly
-- **iOS Development**: SwiftUI, UIKit
-- **Modeling**: UML
-- **Languages**: C#, Go, Haskell, Python, Ruby, Swift, JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass
-- **Project Management**: CA Agile Central, Confluence, Jira, Kanban, Scrum
-- **Source Code Management**: Dimensions CM, Git
-- **Web Technologies**: Astro, Express.js, Ruby on Rails, React, Svelte, Vite
+Versatile product designer / engineer with expertise in **automation** (CircleCI, GitHub Actions, Jenkins), **cloud platforms** (AWS, Azure, GCP), **databases** (Couchbase, MongoDB), and **UI/UX design** (Photoshop, XD, Figma). Proficient in **iOS** (SwiftUI, UIKit), **web development** (Svelte, Ruby on Rails), and **programming languages** like C#, Python, and TypeScript. 
 
-and more...
+Adept in Scrum, Jira, and Git. Strong focus on communication, problem-solving, and user-centricity.
 
+**[Download CV](https://www.nortonandreev.com/files/Norton_Andreev_CV.pdf)**
