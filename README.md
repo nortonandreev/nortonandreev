@@ -13,7 +13,7 @@ I'm a tech-savvy skilled in turning concepts into successful products. With a st
 - **LinkedIn**: [Norton Andreev](https://www.linkedin.com/in/nortonandreev)
 - **Email**: [norton@nortonandreev.com](mailto:norton@nortonandreev.com)
 
-## 💼 Commercial Projects
+## 💼 Recent Projects
 - **Dusk Web Wallet**: 
 I dove into the Web3 world starting October 2023, working on Dusk's Web Wallet project. This cutting-edge tool tackles privacy in smart contracts, crucial for Dusk's 2024 Mainnet launch. We've crafted the Wallet using Svelte, focusing on top-notch code practices. Now, we're enhancing it based on user insights and gearing up for the Mainnet release. Plus, we've gone open-source, welcoming community contributions. [Explore Project](https://wallet.dusk.network)
 
