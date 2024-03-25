@@ -9,7 +9,7 @@ I'm a tech-savvy skilled in turning concepts into successful products. With a st
 🎓 Graduated from the University of Sheffield with Highest Distinction
 
 ## 📫 Let's Connect
-- **Personal Website**: [www.nortonandreev.com](www.nortonandreev.com)
+- **Personal Website**: [www.nortonandreev.com](https://www.nortonandreev.com)
 - **LinkedIn**: [Norton Andreev](https://www.linkedin.com/in/nortonandreev)
 - **Email**: [norton@nortonandreev.com](mailto:norton@nortonandreev.com)
 
