@@ -4,7 +4,7 @@ I'm a tech-savvy skilled in turning concepts into successful products. With a st
 
 🚀 Founder of [Nortware](www.nortware.ltd)
 
-👨‍💻 Currently working for @dusk-network
+👨‍💻 Currently working for [Dusk](https://dusk.network)
 
 🎓 Graduated from the University of Sheffield with Highest Distinction
 
