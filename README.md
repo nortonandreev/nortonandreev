@@ -29,26 +29,26 @@ I'm a tech-savvy professional skilled at transforming innovative concepts into i
 * Led the frontend development of BWRE Capital's official bond investment platform enabling issuers to raise capital via bonds, investing proceeds into Money Market Funds and Italian Tax Credits.
 * Integrated advanced Web3 solutions, including crypto wallet management via web3modal and robust KYC and AML verification using Onfido.
 * Achieved scalability with a streamlined user experience, incorporating Dusk Token-based yield enhancements.
-* [Explore Project](https://bond.bwrecapital.com)
+[Explore Project](https://bond.bwrecapital.com)
 
 ### Dusk Explorer
 
 * Spearheaded the launch of Dusk Network’s enhanced Block Explorer, featuring interactive dashboards, real-time data, and improved UI with geographical node visualization.
 * Optimized for local node operation, significantly advancing blockchain transparency and operational efficiency.
-* [Explore Project](https://apps.dusk.network/explorer)
+[Explore Project](https://apps.dusk.network/explorer)
 
 ### Dusk Web Wallet
 
 * Developed a privacy-centric Web3 wallet using **Svelte**, essential for the 2024 Dusk Mainnet launch.
 * Focused on community-driven, open-source improvements, maintaining top-tier coding standards and user-centered design.
-* [Explore Project](https://wallet.dusk.network)
+[Explore Project](https://wallet.dusk.network)
 
 ### Couchbase Capella
 
 * Played a strategic role as a Product Front End Engineer in developing Couchbase Capella (DBaaS), enhancing cloud integration across AWS, GCP, and Azure.
 * Led a significant tech transition from React to Svelte, mentoring team members, and influencing product strategy.
 * Contributed to revenue growth, achieving a 23% increase in annual subscriptions, with Capella recognized as the **Best Cloud Data Management Solution** (2023-2024 Cloud Awards).
-* [Explore Project](https://capella.couchbase.com)
+[Explore Project](https://capella.couchbase.com)
 
 ## 🛠 Technical Skills (Non-exhaustive)
 
