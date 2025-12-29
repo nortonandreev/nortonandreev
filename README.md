@@ -8,27 +8,6 @@ I specialize in turning **complex systems into clean, intuitive interfaces**, wo
 
 ---
 
-### 🚀 What I’ve Shipped
-
-- ⚡ Rebuilt blockchain explorers & analytics platforms in **SvelteKit** (**sub-800ms loads**, real-time data)
-- 👛 Delivered the **Dusk Web Wallet**, integrating privacy-preserving in-browser tech and **zero-knowledge proof flows**
-- 💶 Frontend for a **€3.5M tokenized bond launch** (KYC/AML + wallet integrations)
-- 🧱 Designed **scalable design systems** adopted across product and engineering teams
-- ☁️ Contributed to **Couchbase Capella** (DBaaS), leading **React → Svelte** migration work and UX redesigns supporting **23% YoY growth**
-- 🤖 Contributed to **AI-driven code agent training and evaluation** through expert frontend code review (Svelte-focused)
-
----
-
-### 🧰 Core Stack
-
-**Svelte / SvelteKit**, TypeScript, React, Node.js
-Accessibility, Performance, SSR/SPA/Edge
-Tailwind, Storybook, Playwright, Cypress
-REST, GraphQL, WebSockets
-Cloudflare, Vercel, Docker, AWS / GCP / Azure
-
----
-
 ### 🧠 Background
 
 * **Product Frontend Engineer** — **SaaS, Blockchain, AI-adjacent systems**  
@@ -39,6 +18,39 @@ Cloudflare, Vercel, Docker, AWS / GCP / Azure
   Product-focused software studio delivering custom frontend systems, design systems, and end-to-end web solutions for startups and B2B teams.
 
 * **BEng Software Engineering (First Class, 1st in Cohort)** — [University of Sheffield](https://sheffield.ac.uk)
+
+---
+
+### 🚀 What I’ve Shipped
+
+- ⚡ Rebuilt blockchain explorer in **SvelteKit** (**sub-800ms loads**, real-time data)
+- 👛 Delivered the **Dusk Web Wallet**, integrating privacy-preserving in-browser tech and **zero-knowledge proof flows**
+- 💶 Frontend for a **€3.5M tokenized bond launch** (KYC/AML + wallet integrations)
+- 🧱 Designed **scalable design systems** adopted across product and engineering teams
+- ☁️ Contributed to **Couchbase Capella** (DBaaS), leading **React → Svelte** migration work and UX redesigns supporting **23% YoY growth**
+- 🤖 Contributed to **AI-driven code agent training and evaluation** through expert frontend code review (Svelte-focused)
+
+---
+
+### 🧰 Core Stack
+
+**Frontend & Product Engineering**  
+Svelte, SvelteKit, TypeScript, JavaScript (ES6+), React, HTML, CSS, Tailwind, Accessibility (WCAG), Performance Optimization, Core Web Vitals, SSR / SPA / Edge Rendering
+
+**UI Systems & UX**  
+Design Systems, Component Architecture, Figma, Prototyping, UX Collaboration, i18n / Localization, Product-Oriented Frontend Development
+
+**Testing & Quality**  
+Playwright, Cypress, Vitest, Storybook, Unit & E2E Testing, Code Review, Frontend Quality Standards
+
+**APIs & Data**  
+REST, GraphQL, WebSockets, OpenAPI, OAuth2 / SSO, Client–Server Integration
+
+**Cloud & Delivery**  
+Cloudflare, Vercel, Docker, AWS / GCP / Azure, CI/CD (GitHub Actions, CircleCI), Datadog
+
+**AI-Adjacent Engineering**  
+AI-assisted and AI-evaluated code systems, Code Annotation & Review, Quality Signal Design, Async & Distributed Collaboration
 
 ---
 
