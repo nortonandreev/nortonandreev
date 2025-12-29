@@ -4,7 +4,7 @@ Frontend Engineer building **fast, accessible, production-grade web apps** — m
 
 I specialize in turning **complex systems into clean, intuitive interfaces**, working closely with product & design to ship real-world software across **blockchain, SaaS, smart infrastructure, and e-commerce**.
 
-**Open to B2B product roles & freelance work.**
+**Open to B2B product roles & contract engagements.**
 
 ---
 
@@ -30,9 +30,14 @@ Cloudflare, Vercel, Docker, AWS / GCP / Azure
 
 ### 🧠 Background
 
-* **Product Frontend Engineer** — Blockchain, SaaS, Smart Infrastructure
-* **Founder** — Nortware
-* **BEng Software Engineering (First Class, 1st in Cohort)**
+* **Product Frontend Engineer** — **SaaS, Blockchain, AI-adjacent systems**  
+  Building high-performance, accessible web applications with **Svelte/SvelteKit**, focused on complex product interfaces, design systems, and developer-facing tooling. Experience across **SaaS platforms**, **blockchain ecosystems**, and **AI-assisted / AI-evaluated workflows**, working closely with product and UX to ship production systems.
+
+* **Founder** — **Nortware**  
+  https://www.nortware.ltd  
+  Product-focused software studio delivering custom frontend systems, design systems, and end-to-end web solutions for startups and B2B teams.
+
+* **BEng Software Engineering (First Class, 1st in Cohort)** — [University of Sheffield](https://sheffield.ac.uk)
 
 ---
 
