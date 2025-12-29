@@ -10,11 +10,12 @@ I specialize in turning **complex systems into clean, intuitive interfaces**, wo
 
 ### 🚀 What I’ve Shipped
 
-⚡ Rebuilt blockchain explorers & analytics platforms (**sub-800ms loads**)
-👛 Delivered the **Dusk Web Wallet**, integrating privacy-preserving in-browser tech and zero-knowledge flows
-💶 Frontend for a **€3.5M tokenized bond launch** (KYC/AML + wallet flows)
-🧱 Designed **scalable design systems** adopted across product teams
-☁️ Contributed to **Couchbase Capella** (React → Svelte, redesign), supporting **23% YoY growth**
+- ⚡ Rebuilt blockchain explorers & analytics platforms in **SvelteKit** (**sub-800ms loads**, real-time data)
+- 👛 Delivered the **Dusk Web Wallet**, integrating privacy-preserving in-browser tech and **zero-knowledge proof flows**
+- 💶 Frontend for a **€3.5M tokenized bond launch** (KYC/AML + wallet integrations)
+- 🧱 Designed **scalable design systems** adopted across product and engineering teams
+- ☁️ Contributed to **Couchbase Capella** (DBaaS), leading **React → Svelte** migration work and UX redesigns supporting **23% YoY growth**
+- 🤖 Contributed to **AI-driven code agent training and evaluation** through expert frontend code review (Svelte-focused)
 
 ---
 
