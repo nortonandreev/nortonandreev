@@ -20,9 +20,9 @@ I build accessible, frontend-focused web and desktop products for enterprise Saa
 
 ### Education
 
-**First Class BEng Software Engineering** — First of 250. Mappin Medal. [University of Sheffield](https://www.sheffield.ac.uk).
+**First Class BEng Software Engineering with a Year in Industry.** Mappin Medal. [University of Sheffield](https://www.sheffield.ac.uk).
 
-**ClimaFever** — Highest-graded dissertation in the cohort. A SwiftUI and Rails platform combining hay fever research with self-management.
+**ClimaFever** — Dissertation grade of 96%. A SwiftUI and Rails platform combining hay fever research with self-management.
 
 **GE Aerospace** — Firmware placement on the Boeing 777X. Re-engineered the core compiler, from 8 hours to 25 minutes.
 
