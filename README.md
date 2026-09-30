@@ -12,15 +12,20 @@ I build accessible, frontend-focused web and desktop products for enterprise Saa
 
 ### Selected work
 
-- **Couchbase Capella** — React-to-Svelte rebuild of the multi-cloud DBaaS. Best Cloud Data Management Solution, 2023–24.
-- **Dusk** — Web Wallet through the 1.0 and open-source launch, and an explorer with sub-800 ms loads.
-- **BWRE Capital** — frontend for a regulated €3.5M tokenised bond. Sold out in under two hours.
+**Couchbase Capella** — React-to-Svelte rebuild of the multi-cloud DBaaS. Best Cloud Data Management Solution, 2023–24.
 
-🎓 First of 250. First Class BEng Software Engineering, [University of Sheffield](https://www.sheffield.ac.uk). Mappin Medal.
+**Dusk** — Web Wallet through the 1.0 and open-source launch, and an explorer with sub-800 ms loads.
+
+**BWRE Capital** — frontend for a regulated €3.5M tokenised bond. Sold out in under two hours.
+
+### Education
+
+First of 250. First Class BEng Software Engineering, [University of Sheffield](https://www.sheffield.ac.uk). Mappin Medal.
+
+**GE Aerospace** — Firmware placement on the Boeing 777X. Re-engineered the core compiler, from 8 hours to 25 minutes.
+
+**ClimaFever** — Highest-graded dissertation in the cohort. A SwiftUI and Rails platform combining hay fever research with self-management.
 
 ### Contact
 
-- 🌐 [nortonandreev.com](https://www.nortonandreev.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nortonandreev)
-- ✉️ [norton@nortonandreev.com](mailto:norton@nortonandreev.com)
-- 📄 [CV](https://www.nortonandreev.com/cv)
+🌐 [nortonandreev.com](https://www.nortonandreev.com) · 💼 [LinkedIn](https://www.linkedin.com/in/nortonandreev) · ✉️ [norton@nortonandreev.com](mailto:norton@nortonandreev.com) · 📄 [CV](https://www.nortonandreev.com/cv)
