@@ -4,7 +4,7 @@ I build accessible, frontend-focused web and desktop products for enterprise Saa
 
 🟢 **Taking on select projects** — a focused engagement or an ongoing fractional partnership through [Nortware](https://www.nortware.ltd).
 
-### Now
+### Recent work
 
 **[kcap](https://www.kurrent.io)** — shared memory for coding agents. I build the desktop app across its surfaces, from first-run onboarding through everyday use.
 
@@ -20,11 +20,11 @@ I build accessible, frontend-focused web and desktop products for enterprise Saa
 
 ### Education
 
-First of 250. First Class BEng Software Engineering, [University of Sheffield](https://www.sheffield.ac.uk). Mappin Medal.
-
-**GE Aerospace** — Firmware placement on the Boeing 777X. Re-engineered the core compiler, from 8 hours to 25 minutes.
+**First Class BEng Software Engineering** — First of 250. Mappin Medal. [University of Sheffield](https://www.sheffield.ac.uk).
 
 **ClimaFever** — Highest-graded dissertation in the cohort. A SwiftUI and Rails platform combining hay fever research with self-management.
+
+**GE Aerospace** — Firmware placement on the Boeing 777X. Re-engineered the core compiler, from 8 hours to 25 minutes.
 
 ### Contact
 
