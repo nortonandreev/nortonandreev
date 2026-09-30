@@ -1,62 +1,26 @@
-## 👋 Hi, I’m Norton
+## Senior Product Engineer
 
-Frontend Engineer building **fast, accessible, production-grade web apps** — mostly with **Svelte / SvelteKit**.
+I build accessible, frontend-focused web and desktop products for enterprise SaaS, fintech, developer tools, and AI-native software. Product thinking, UX, and end-to-end ownership.
 
-I specialize in turning **complex systems into clean, intuitive interfaces**, working closely with product & design to ship real-world software across **blockchain, SaaS, smart infrastructure, and e-commerce**.
+Taking on select projects — a focused engagement or an ongoing fractional partnership through [Nortware](https://www.nortware.ltd).
 
-**Open to B2B product roles & contract engagements.**
+### Now
 
----
+**[kcap](https://www.kurrent.io)** — shared memory for coding agents. I build the desktop app and a large part of the web UI: chat, session chrome, pull-request reading, and the surfaces around setup and review.
 
-### 🧠 Background
+**[Kurrent Navigator](https://www.kurrent.io/navigator/)** — a major part of the move from StencilJS to an Electron app on Svelte 5 and SvelteKit, on macOS, Linux, and Windows. Connectors, virtualised tables, access control, and the shared Svelte design system and handbook.
 
-* **Product Frontend Engineer** — **SaaS, Blockchain, AI-adjacent systems**  
-  Building high-performance, accessible web applications with **Svelte/SvelteKit**, focused on complex product interfaces, design systems, and developer-facing tooling. Experience across **SaaS platforms**, **blockchain ecosystems**, and **AI-assisted / AI-evaluated workflows**, working closely with product and UX to ship production systems.
+### Selected work
 
-* **Founder** — **Nortware**  
-  https://www.nortware.ltd  
-  Product-focused software studio delivering custom frontend systems, design systems, and end-to-end web solutions for startups and B2B teams.
+- **Couchbase Capella** — React-to-Svelte rebuild of the multi-cloud DBaaS. Best Cloud Data Management Solution, 2023–24.
+- **Dusk** — Web Wallet through the 1.0 and open-source launch, and an explorer with sub-800 ms loads.
+- **BWRE Capital** — frontend for a regulated €3.5M tokenised bond. Sold out in under two hours.
 
-* **BEng Software Engineering (First Class, 1st in Cohort)** — [University of Sheffield](https://sheffield.ac.uk)
+First of 250. First Class BEng Software Engineering, [University of Sheffield](https://www.sheffield.ac.uk). Mappin Medal.
 
----
+### Contact
 
-### 🚀 What I’ve Shipped
-
-- ⚡ Rebuilt blockchain explorer in **SvelteKit** (**sub-800ms loads**, real-time data)
-- 👛 Delivered the **Dusk Web Wallet**, integrating privacy-preserving in-browser tech and **zero-knowledge proof flows**
-- 💶 Frontend for a **€3.5M tokenized bond launch** (KYC/AML + wallet integrations)
-- 🧱 Designed **scalable design systems** adopted across product and engineering teams
-- ☁️ Contributed to **Couchbase Capella** (DBaaS), leading **React → Svelte** migration work and UX redesigns supporting **23% YoY growth**
-- 🤖 Contributed to **AI-driven code agent training and evaluation** through expert frontend code review (Svelte-focused)
-
----
-
-### 🧰 Core Stack
-
-**Frontend & Product Engineering**  
-Svelte, SvelteKit, TypeScript, JavaScript (ES6+), React, HTML, CSS, Tailwind, Accessibility (WCAG), Performance Optimization, Core Web Vitals, SSR / SPA / Edge Rendering
-
-**UI Systems & UX**  
-Design Systems, Component Architecture, Figma, Prototyping, UX Collaboration, i18n / Localization, Product-Oriented Frontend Development
-
-**Testing & Quality**  
-Playwright, Cypress, Vitest, Storybook, Unit & E2E Testing, Code Review, Frontend Quality Standards
-
-**APIs & Data**  
-REST, GraphQL, WebSockets, OpenAPI, OAuth2 / SSO, Client–Server Integration
-
-**Cloud & Delivery**  
-Cloudflare, Vercel, Docker, AWS / GCP / Azure, CI/CD (GitHub Actions, CircleCI), Datadog
-
-**AI-Adjacent Engineering**  
-AI-assisted and AI-evaluated code systems, Code Annotation & Review, Quality Signal Design, Async & Distributed Collaboration
-
----
-
-### 📫 Let’s Connect
-
-* 🌐 **Website**: [nortonandreev.com](https://www.nortonandreev.com)
-* 💼 **LinkedIn**: [linkedin.com/in/nortonandreev](https://www.linkedin.com/in/nortonandreev)
-* 📧 **Email**: [norton@nortonandreev.com](mailto:norton@nortonandreev.com)
-* 📄 **CV**: [Download](https://www.nortonandreev.com/cv)
+- [nortonandreev.com](https://www.nortonandreev.com)
+- [LinkedIn](https://www.linkedin.com/in/nortonandreev)
+- [norton@nortonandreev.com](mailto:norton@nortonandreev.com)
+- [CV](https://www.nortonandreev.com/cv)
